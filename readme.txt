@@ -13,3 +13,4 @@ git 管理修改优于其他版本控制工具
 在dev分支上进行no-ff的合并
 
 第二次暂存 stash two
+第一次编辑 stash one
